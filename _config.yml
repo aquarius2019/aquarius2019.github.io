@@ -28,6 +28,6 @@ twitter_username: i_alayaki
 github_username:  aquarius2019
 
 # Build settings
-remote_theme: pages-themes/hacker@v0.2.0
+remote_theme: pages-themes/hacker
 plugins:
   - jekyll-remote-theme
