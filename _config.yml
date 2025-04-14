@@ -21,13 +21,13 @@
 title: Ozy's Blog
 email: alayakiire@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Welcome to Ozy's blog, game development, programming, and robotics.
-baseurl: "/blog"
-url: ""
+  Welcome to Ozy's blog for game development, programming, and robotics.
+baseurl: ""
+url: "https://aquarius2019.github.io/"
 twitter_username: i_alayaki
 github_username:  aquarius2019
 
 # Build settings
-remote_theme: pages-themes/hacker
+remote_theme: pages-themes/hacker@v0.2.0
 plugins:
   - jekyll-remote-theme
