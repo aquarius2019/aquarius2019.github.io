@@ -20,8 +20,10 @@
 
 title: Ozy's Blog
 email: alayakiire@gmail.com
-description: >- # this means to ignore newlines until "baseurl:"
-  Welcome to Ozy's blog for game development, programming, and robotics.
+description: >-
+  Game developer by passion, robotics engineer by training. 
+  I break down code, write tools, and teach robots to think. 
+  Welcome to my tech playground.
 baseurl: ""
 url: "https://aquarius2019.github.io/"
 twitter_username: i_alayaki
